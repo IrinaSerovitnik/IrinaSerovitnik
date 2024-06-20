@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a professional interested in a data analyst position. I have 20 years of experience as an analyst at JSC Russian Railways. During this time, I grew from an engineer to a deputy head of a department. My professional skills: data analysis and visualization, creating reports and analytical presentations, working with large volumes of data and data storage systems, experience in team management. Worked with stack: MS Excel, PowerPoint.
+Currently, I am actively studying the Data Analyst course at the Hexlet online school. My arsenal includes knowledge of SQL (PostgreSQL), DBeaver, Google Sheets, as well as experience with BI systems such as Preset, Yandex DataLens, Google Looker Studio.
+I am constantly developing, learning new methods and tools for data analysis. Ready for new challenges and opportunities for growth. I am ready to work remotely with a flexible schedule, since I am in Argentina (-6 hours by Moscow time).
+My portfolio is available at [link](https://disk.yandex.ru/d/e3CjgJCyFKIgFg).
