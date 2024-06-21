@@ -40,3 +40,4 @@ I am constantly developing, learning new methods and tools for data analysis. Re
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </p>
+[![Excel](https://img.shields.io/badge/Excel-0078D4?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
