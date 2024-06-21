@@ -21,12 +21,22 @@ Currently, I am actively studying the Data Analyst course at the Hexlet online s
 
 I am constantly developing, learning new methods and tools for data analysis. Ready for new challenges and opportunities for growth. I am ready to work remotely with a flexible schedule, since I am in Argentina (-6 hours by Moscow time).
 
-My portfolio is available at [link](https://disk.yandex.ru/d/e3CjgJCyFKIgFg).
+[Here's my CV](https://cv.hexlet.io/ru/resumes/3781)
 
-My advantages
+[Here's my portfolio](https://disk.yandex.ru/d/e3CjgJCyFKIgFg).
+
+**My advantages**
 
 - experience in a managerial position allowed me to learn how to effectively interact with various levels of management and colleagues, think strategically, make decisions under stress and unforeseen situations
 
 - at my previous place of work, I was entrusted with the most complex projects and asked for help in completing the tasks of related departments
 
 - my desire to use advanced methods in my work encourages me to regularly learn new things to improve my skills
+
+**Skills**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+</p>
