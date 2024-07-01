@@ -48,6 +48,9 @@ I am constantly developing, learning new methods and tools for data analysis. Re
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </a>
 </p>
 
 <p align="left">
