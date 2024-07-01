@@ -1,25 +1,13 @@
 ## Hi there, my name is Irina 👋
 
-**Data Analyst**
+# **Data Analyst**
 
-<!--
-**IrinaSerovitnik/IrinaSerovitnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 🌍 I'm based in Argentina, Buenos Aires
 
 ✉️ You can contact me at [email](irina.serovitnik@gmail.com) or [telegram](https://t.me/Irina_Serovitnik)
+
 
 
 **👩‍🎓 Education:**
@@ -29,19 +17,14 @@ Here are some ideas to get you started:
 - Economics and enterprise management, Ural State University of Railway Transport (1998-2003)
 
 
+
 **👩‍💻 Experience:**
 
 - 20 years as an analyst at [Russian Railways](https://www.rzd.ru/)
 
 During this time, I grew from an engineer to a deputy head of a department. My professional skills: data analysis and visualization, creating reports and analytical presentations, working with large volumes of data and data storage systems, experience in team management. Worked with stack: MS Excel, PowerPoint.
 
-**🖐 About Me:**
 
-
-
-[Here's my CV](https://cv.hexlet.io/ru/resumes/3781) and [here](https://hh.ru/resume/d6ce7348ff086fc0b80039ed1f573457775069)
-
-[Here's my portfolio](https://disk.yandex.ru/d/e3CjgJCyFKIgFg).
 
 **💪 My advantages**
 
@@ -52,6 +35,8 @@ During this time, I grew from an engineer to a deputy head of a department. My p
 - at my previous place of work, I was entrusted with the most complex projects and asked for help in completing the tasks of related departments
 
 - my desire to use advanced methods in my work encourages me to regularly learn new things to improve my skills
+
+
 
 **🤹‍♀️ Skills**
 
@@ -72,4 +57,10 @@ During this time, I grew from an engineer to a deputy head of a department. My p
 
 🛢️ SQL (Postgres): database queries, filtering, grouping, aggregation, subqueries, window functions, CTE
 
-📈 Preset, Yandex DataLens, Google Looker Studio: charts, filters, calculated fields, metrics
+📈 BI-sistems: Preset, Yandex DataLens, Google Looker Studio (charts, filters, calculated fields, metrics)
+
+
+
+[Here's my CV](https://cv.hexlet.io/ru/resumes/3781) and [here](https://hh.ru/resume/d6ce7348ff086fc0b80039ed1f573457775069)
+
+[Here's my portfolio](https://disk.yandex.ru/d/e3CjgJCyFKIgFg).
