@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, my name is Irina 👋
+
+**Data Analyst**
 
 <!--
 **IrinaSerovitnik/IrinaSerovitnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,6 +50,14 @@ I am constantly developing, learning new methods and tools for data analysis. Re
   </a>
 </p>
 
+<p align="left">
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </a>
+</p>
+
 📊 Excel / Google Sheets: Pivot tables, visualization, formulas (VLOOKUP, IF, SUMIF, INDEX, MATCH, text and others), simple macros, conditional formatting
+
 🛢️ SQL (Postgres): database queries, filtering, grouping, aggregation, subqueries, window functions, CTE
+
 📈 Preset, Yandex DataLens, Google Looker Studio: charts, filters, calculated fields, metrics
