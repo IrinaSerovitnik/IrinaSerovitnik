@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 🌍 I'm based in Argentina, Buenos Aires
+
 ✉️ You can contact me at [gmail](irina.serovitnik@gmail.com) or [telegram](https://t.me/Irina_Serovitnik)
+
 📊 I'm currently learning Data analytics
+
 
 I am a professional interested in a data analyst position. I have 20 years of experience as an analyst at [Russian Railways](https://www.rzd.ru/). During this time, I grew from an engineer to a deputy head of a department. My professional skills: data analysis and visualization, creating reports and analytical presentations, working with large volumes of data and data storage systems, experience in team management. Worked with stack: MS Excel, PowerPoint.
 
@@ -44,4 +47,7 @@ I am constantly developing, learning new methods and tools for data analysis. Re
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </p>
-![image](https://github.com/IrinaSerovitnik/IrinaSerovitnik/assets/136731847/872ba979-e2c4-4a20-8045-600e6c6bb839)
+
+📊 Excel / Google Sheets: Pivot tables, visualization, formulas (VLOOKUP, IF, SUMIF, INDEX, MATCH, text and others), simple macros, conditional formatting
+🛢️ SQL (Postgres): database queries, filtering, grouping, aggregation, subqueries, window functions, CTE
+📈 Preset, Yandex DataLens, Google Looker Studio: charts, filters, calculated fields, metrics
