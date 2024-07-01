@@ -1,6 +1,6 @@
 ## Hi there, my name is Irina 👋
 
-# **Data Analyst**
+### **Data Analyst**
 
 
 
@@ -26,7 +26,7 @@ During this time, I grew from an engineer to a deputy head of a department. My p
 
 
 
-**💪 My advantages**
+**💪 My advantages:**
 
 - I am constantly developing, learning new methods and tools for data analysis. Ready for new challenges and opportunities for growth.
 
@@ -38,11 +38,11 @@ During this time, I grew from an engineer to a deputy head of a department. My p
 
 
 
-**🤹‍♀️ Skills**
+**🤹‍♀️ Skills:**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" />
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
   <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
