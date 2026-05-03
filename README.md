@@ -4,7 +4,7 @@
 
 
 
-🌍 I'm based in Argentina, Buenos Aires
+🌍 I'm based in Yekaterinburg, Russia
 
 ✉️ You can contact me at [email](irina.serovitnik@gmail.com) or [telegram](https://t.me/Irina_Serovitnik)
 
