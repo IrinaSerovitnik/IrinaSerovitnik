@@ -12,7 +12,7 @@
 
 **👩‍🎓 Education:**
 
-- Data Analytics, [Hexlet online school](https://ru.hexlet.io/u/irina_serovitnik) (since January 2024 until now)
+- Data Analytics, [Hexlet online school](https://ru.hexlet.io/u/irina_serovitnik) (2024)
 
 - Economics and enterprise management, Ural State University of Railway Transport (1998-2003)
 
